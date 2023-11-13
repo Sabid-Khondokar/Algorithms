@@ -2,7 +2,6 @@
 using namespace std;
 
 const int N = 1e7;
-//std :: fill(prime,prime + n,1);
 
 int Isprime(int n) {
 	int prime[n];
